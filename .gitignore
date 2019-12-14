@@ -21,3 +21,8 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+/WebTimeSheetManagement.Concrete/obj/Release/WebTimeSheetManagement.Concrete.csprojAssemblyReference.cache
+/WebTimeSheetManagement.Concrete/obj/Debug/WebTimeSheetManagement.Concrete.csprojAssemblyReference.cache
+/WebTimeSheetManagement/obj/Release/WebTimeSheetManagement.csprojAssemblyReference.cache
+/WebTimeSheetManagement/obj/Debug/WebTimeSheetManagement.csprojAssemblyReference.cache
+/WebTimeSheetManagement.Models/obj/Release/WebTimeSheetManagement.Models.csprojAssemblyReference.cache
